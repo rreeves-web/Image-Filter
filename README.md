@@ -16,4 +16,4 @@ Sepia:
 ![Sepia courtyard](./images/courtyard_sepia.bmp)
 
 Greyscale:
-![Greyscale courtyard](./images/courtyard_greyscale.bmp
+![Greyscale courtyard](./images/courtyard_greyscale.bmp)
